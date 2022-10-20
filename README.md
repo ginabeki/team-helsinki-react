@@ -1,6 +1,21 @@
 # Team-Helsinki-React
 Team Helsinki Front-End Written In React
 
+### Project Streams 👇👇
+
+Pick from the below to start your PR journey:
+
+- Minimum knowledge required to submit a PR
+- Forking the main repo
+- Setting the upstream from their Fork back to the main repo
+- Cloning the Forked project to their local development IDE/Editor
+- Creating a branch from within the IDE/Editor using the Command Line Interface
+- Commiting work to the created branch
+- Creating a PR
+- Completing the PR template
+- Engaging with the nominated maintainers of the repo via the PR threads
+- Having their PRs approved/decline or merged into the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
