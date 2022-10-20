@@ -7,9 +7,20 @@ This is what your PR journey will look like:
 
 - Minimum knowledge required to submit a PR
   - Forking: Fork the main repo
+  [![Screenshot-2022-10-20-at-2-47-14-PM.png](https://i.postimg.cc/Kz31C8cQ/Screenshot-2022-10-20-at-2-47-14-PM.png)](https://postimg.cc/LYR41R1Z)
   - Clone the Forked project to your local development IDE/Editor
+    - If using https the command should like like this from your forked repo
+      - `https://github.com/username/team-helsinki-react.git`
+    - If using ssh then the command should look like this from your forked repo
+      - `git@github.com:username/team-helsinki-react.git`
   - Create a branch from within the IDE/Editor using the Command Line Interface
+    - `git checkout -b name-of-branch`
+      - when naming branches the typical convention is to use:
+        - `ft` or `feature` when it is a feature or an enhancement. eg `feature-create-hero-component`
+        - `ch` or `chore` when it is something that doesn't add to the code but is tooling around it eg: creating linters. An example of a branch name would be `ch-create-linter` or `chore-create-linter`
+        - `bg` or `bug` when the branch is for fixing a bug. An example would be `bg-fix-breaking-thing` or `bug-fix-breaking-thing`
   - Commit your work to the created branch
+    - Ensure that your commits are descriptive and atomic
   - Create a PR to main
   - Complete the PR template
   - Engage with the nominated maintainers of the repo via the PR threads
