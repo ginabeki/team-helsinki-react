@@ -9,7 +9,7 @@ This is what your PR journey will look like:
   - Forking: Fork the main repo
   - Clone the Forked project to your local development IDE/Editor
   - Create a branch from within the IDE/Editor using the Command Line Interface
-  - Commiting your work to the created branch
+  - Commit your work to the created branch
   - Create a PR to main
   - Complete the PR template
   - Engage with the nominated maintainers of the repo via the PR threads
