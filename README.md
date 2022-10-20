@@ -1,7 +1,7 @@
 # Team-Helsinki-React
 Team Helsinki Front-End Written In React
 
-### Project Streams 👇👇
+### Project Streams 👇🏿👇🏿
 
 Pick from the below to start your PR journey:
 
