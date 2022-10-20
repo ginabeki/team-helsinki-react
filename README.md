@@ -3,18 +3,17 @@ Team Helsinki Front-End Written In React
 
 ### Project Streams 👇🏿👇🏿
 
-Pick from the below to start your PR journey:
+This is what your PR journey will look like:
 
 - Minimum knowledge required to submit a PR
-- Forking the main repo
-- Setting the upstream from their Fork back to the main repo
-- Cloning the Forked project to their local development IDE/Editor
-- Creating a branch from within the IDE/Editor using the Command Line Interface
-- Commiting work to the created branch
-- Creating a PR
-- Completing the PR template
-- Engaging with the nominated maintainers of the repo via the PR threads
-- Having their PRs approved/decline or merged into the project
+  - Forking: Fork the main repo
+  - Clone the Forked project to your local development IDE/Editor
+  - Create a branch from within the IDE/Editor using the Command Line Interface
+  - Commiting your work to the created branch
+  - Create a PR to main
+  - Complete the PR template
+  - Engage with the nominated maintainers of the repo via the PR threads
+  - Once all changes have been accepted, your PR will be merged.
 
 # Getting Started with Create React App
 
