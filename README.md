@@ -1,4 +1,5 @@
 # Team-Helsinki-React
+
 Team Helsinki Front-End Written In React
 
 ### Project Streams 👇🏿👇🏿
@@ -7,7 +8,7 @@ This is what your PR journey will look like:
 
 - Minimum knowledge required to submit a PR
   - Forking: Fork the main repo
-  [![Screenshot-2022-10-20-at-2-47-14-PM.png](https://i.postimg.cc/Kz31C8cQ/Screenshot-2022-10-20-at-2-47-14-PM.png)](https://postimg.cc/LYR41R1Z)
+    [![Screenshot-2022-10-20-at-2-47-14-PM.png](https://i.postimg.cc/Kz31C8cQ/Screenshot-2022-10-20-at-2-47-14-PM.png)](https://postimg.cc/LYR41R1Z)
   - Clone the Forked project to your local development IDE/Editor
     - If using https the command should like like this from your forked repo
       - `https://github.com/username/team-helsinki-react.git`
