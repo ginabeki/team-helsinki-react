@@ -11,5 +11,5 @@
 
 - create a new branch that is based on `main` using the command `git checkout -b branch-name`
 - the branch-name should be descriptive and wording should depend on whether you are working on a feature, chore, or bug. Refer to the project readme [here](https://github.com/redxzeta/Awesome-Adoption/blob/main/CONTRIBUTING.md) for branch naming tips
-- run  `npm i` to install `node-modules` and all project dependencies
+- run `npm i` to install `node-modules` and all project dependencies
 - `yarn start` to run the app locally
