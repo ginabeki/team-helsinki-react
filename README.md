@@ -2,34 +2,25 @@
 
 Team Helsinki Front-End Written In React
 
-### Project Streams 👇🏿👇🏿
+### Project Description
 
-This is what your PR journey will look like:
+Add here
 
-- Minimum knowledge required to submit a PR
-  - Forking: Fork the main repo
-    [![Screenshot-2022-10-20-at-2-47-14-PM.png](https://i.postimg.cc/Kz31C8cQ/Screenshot-2022-10-20-at-2-47-14-PM.png)](https://postimg.cc/LYR41R1Z)
-  - Clone the Forked project to your local development IDE/Editor
-    - If using https the command should like like this from your forked repo
-      - `https://github.com/username/team-helsinki-react.git`
-    - If using ssh then the command should look like this from your forked repo
-      - `git@github.com:username/team-helsinki-react.git`
-  - Create a branch from within the IDE/Editor using the Command Line Interface
-    - `git checkout -b name-of-branch`
-      - when naming branches the typical convention is to use:
-        - `ft` or `feature` when it is a feature or an enhancement. eg `feature-create-hero-component`
-        - `ch` or `chore` when it is something that doesn't add to the code but is tooling around it eg: creating linters. An example of a branch name would be `ch-create-linter` or `chore-create-linter`
-        - `bg` or `bug` when the branch is for fixing a bug. An example would be `bg-fix-breaking-thing` or `bug-fix-breaking-thing`
-  - Commit your work to the created branch
-    - Ensure that your commits are descriptive and atomic
-  - Create a PR to main
-  - Complete the PR template
-  - Engage with the nominated maintainers of the repo via the PR threads
-  - Once all changes have been accepted, your PR will be merged.
+### Contributing 👇🏿👇🏿
 
-# Getting Started with Create React App
+Read the contribution guide [here](https://github.com/SpaceyaTech/team-helsinki-react/blob/main/CONTRIBUTING.md)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Tech Stack
+
+- React
+- Sass
+- ESlint & Prettier
+
+### Setup
+
+- `npm i`
+
+- `npm start`
 
 ## Available Scripts
 
@@ -43,11 +34,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -58,6 +44,11 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -67,6 +58,14 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+### npm run format
+
+Run linting tooling i.e. ESlint and Prettier via two additional script i.e. by running two scripts for fixing ESlint error (that can be auto fixed) and code formatting i.e. `npm run lint:fix && npm run prettier:format`
+
+### npm run lint
+
+Run ESlint in the project to identify problems
 
 ## Learn More
 
