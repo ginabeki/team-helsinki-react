@@ -55,8 +55,8 @@ in order for the linting tools to work correctly, you will need to install two V
 
 - Commit your work to the branch you created using the `git checkout -b branch-name` command
 - Ensure that your commits are descriptive and atomic
-- Push your branch to GitHub using the command `git push your-username branch-name`
-- Create a PR to main on your fork on GitHub 
+- Push your branch to GitHub using the command `git push your-username branch-name` or `git push` if you have already pushed the branch to GitHub
+- Create a PR to main on your fork on GitHub
 - Complete the PR template
 - Engage with the nominated maintainers of the repo via the PR threads
 - Once all changes have been accepted, your PR will be merged.
