@@ -15,7 +15,7 @@ Read the contribution guide [here](https://github.com/SpaceyaTech/team-helsinki-
 - React
 - Sass
 - ESlint & Prettier
-- Husky 
+- Husky (git hooks)
 
 ### Setup
 
