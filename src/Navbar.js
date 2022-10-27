@@ -20,8 +20,8 @@ export default function Navbar() {
         <CustomLink to="/job">Job</CustomLink>
       </ul>
       <div className="buttons">
-        <Button type="submit"> Login</Button>
-        <Button type="submit">Signin</Button>
+        {/* <Button type="submit"> Login</Button>
+        <Button type="submit">Signin</Button> */}
       </div>
     </nav>
   );
