@@ -1,5 +1,6 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import { Link, useMatch, useResolvedPath } from "react-router-dom";
+import Button from "./components/Button";
 // import Button from "./components/Button";
 
 export default function Navbar() {
@@ -19,10 +20,8 @@ export default function Navbar() {
         <CustomLink to="/blog">Blog</CustomLink>
         <CustomLink to="/job">Job</CustomLink>
       </ul>
-      <div className="buttons">
-        {/* <Button type="submit"> Login</Button>
-        <Button type="submit">Signin</Button> */}
-      </div>
+
+      <Button />
     </nav>
   );
 }
